@@ -11,7 +11,7 @@ import (
 	"github.com/labstack/echo/v4"
 )
 
-const saveDir = "/home/charliepi/Downloads/" // Directory to save uploaded files
+const saveDir = "/home/pipi/Downloads/" // Directory to save uploaded files
 
 func main() {
 	e := echo.New()
